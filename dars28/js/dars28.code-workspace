@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/Otabek Zayniev/4. Mehmonxona tizimi"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "dars28"
+    }
+}
